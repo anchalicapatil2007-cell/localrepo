@@ -32,3 +32,5 @@ A modern scientific calculator built using HTML, CSS, and JavaScript.
 
 ## 📌 Author
 Anchalica Patil
+## 📸 Preview
+![Calculator](calculator.png)
